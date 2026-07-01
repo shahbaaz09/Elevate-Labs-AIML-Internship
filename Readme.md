@@ -1,28 +1,30 @@
-# Task 1 - Data Cleaning & Preprocessing
+# Elevate Labs AI/ML Internship
 
-## Objective
-Learn how to clean and preprocess raw data for Machine Learning.
+This repository contains all the tasks, projects, and learning completed during my 45-day AI/ML Internship at Elevate Labs.
 
-## Tools Used
+## Internship Duration
+- Duration: 45 Days
+- Mode: Remote
+
+## Tech Stack
 - Python
-- Pandas
 - NumPy
+- Pandas
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- TensorFlow (Upcoming)
+- Machine Learning
+- Deep Learning
 
-## Steps Performed
-1. Loaded the Titanic dataset.
-2. Explored the dataset using head(), shape, info(), and describe().
-3. Identified missing values.
-4. Filled missing values in Age using the median.
-5. Filled missing values in Embarked using the mode.
-6. Dropped the Cabin column due to excessive missing values.
-7. Encoded categorical features using LabelEncoder.
-8. Removed unnecessary columns (PassengerId, Name, Ticket).
-9. Detected and removed outliers using the IQR method.
-10. Standardized the Age and Fare features using StandardScaler.
-11. Saved the cleaned dataset.
+## Completed Tasks
 
-## Output
-A cleaned and preprocessed Titanic dataset ready for Machine Learning.
+| Task | Status |
+|------|--------|
+| Task 01 - Data Cleaning & Preprocessing | ✅ Completed |
+| Task 02 | ⏳ Pending |
+| Task 03 | ⏳ Pending |
+
+## Author
+
+**Md Shahbaaz Shaikh**
